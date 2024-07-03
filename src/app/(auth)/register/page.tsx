@@ -1,9 +1,7 @@
 import RegisterComponent from "@/components/registerComponent";
 import React from "react";
 
-type Props = {};
-
-const Register = (props: Props) => {
+const Register = () => {
   return <RegisterComponent />;
 };
 
